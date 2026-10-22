@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-labelledby="t"><title id="t">Akash Yadav — end of transmission</title><defs><linearGradient id="g"><stop stop-color="#00E5FF" stop-opacity="0"/><stop offset=".5" stop-color="#00E5FF"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient></defs><rect width="1200" height="130" rx="14" fill="#070D1E" stroke="#193D60"/><path d="M0 28H1200M0 102H1200" stroke="url(#g)" stroke-width="2"/><g fill="#00E5FF"><circle cx="80" cy="65" r="3"/><circle cx="1120" cy="65" r="3"/></g><text x="600" y="59" text-anchor="middle" fill="#F0FAFF" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" letter-spacing="7">AKASH YADAV</text><text x="600" y="87" text-anchor="middle" fill="#00E5FF" font-family="monospace" font-size="12" letter-spacing="5">END OF TRANSMISSION // KEEP BUILDING</text><path d="M60 65h160m760 0h160" stroke="#00E5FF" stroke-opacity=".45" stroke-width="1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-labelledby="title desc">
+  <title id="title">Akash Yadav — end of transmission</title><desc id="desc">A minimal deep-space closing panel with an illuminated horizon and restrained telemetry marks.</desc>
+  <defs><linearGradient id="beam"><stop stop-color="#00E5FF" stop-opacity="0"/><stop offset=".48" stop-color="#00E5FF"/><stop offset=".78" stop-color="#8B5CF6"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient></defs>
+  <rect width="1200" height="140" rx="16" fill="#050A18" stroke="#1D3A5D"/>
+  <path d="M0 24H1200M0 116H1200" stroke="url(#beam)" stroke-width="1.5"/>
+  <path d="M42 70H245L265 50H315M1158 70H955L935 90H885" fill="none" stroke="#00E5FF" stroke-opacity=".5"/>
+  <g fill="#00E5FF"><circle cx="245" cy="70" r="3"/><circle cx="955" cy="70" r="3"/></g>
+  <text x="600" y="61" text-anchor="middle" fill="#F3FAFF" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="800" letter-spacing="6">AKASH YADAV</text>
+  <text x="600" y="88" text-anchor="middle" fill="#7DEBFF" font-family="monospace" font-size="12" letter-spacing="4">END OF TRANSMISSION / KEEP BUILDING</text>
+  <g fill="#91A8C9" font-family="monospace" font-size="9" letter-spacing="2"><text x="44" y="103">SIGNAL: OPEN</text><text x="1155" y="103" text-anchor="end">NEXT ITERATION AWAITS</text></g>
+</svg>
