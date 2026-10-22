@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-label="Cyan and ultraviolet signal divider">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-labelledby="title desc">
+  <title id="title">Cyan and ultraviolet signal divider</title>
+  <desc id="desc">A minimal luminous signal line with circuit-like endpoints and one slow pulsing center light.</desc>
   <defs><linearGradient id="signal"><stop stop-color="#00E5FF" stop-opacity="0"/><stop offset=".24" stop-color="#00E5FF"/><stop offset=".72" stop-color="#8B5CF6"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient></defs>
   <path d="M0 14H1200" stroke="url(#signal)" stroke-width="1.5"/><path d="M24 14H78L88 5H112M1088 14H1120L1130 23H1176" fill="none" stroke="#00E5FF" stroke-width="1.5" stroke-opacity=".7"/>
   <circle cx="600" cy="14" r="3.5" fill="#00E5FF"><animate attributeName="r" values="2;4.5;2" dur="3.2s" repeatCount="indefinite"/></circle>
