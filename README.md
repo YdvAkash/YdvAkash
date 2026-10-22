@@ -1,78 +1,113 @@
-<h1 align="center">Hey there 👋, I'm Akash Yadav</h1>
-<h3 align="center">Backend Engineer | API Design Specialist | MERN Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Engineering+robust+backend+systems;Designing+scalable+REST+APIs+with+Node.js+%26+Express;MongoDB+expertise+%7C+DevOps+enthusiast;Clean+Code+%7C+Cloud+Ready+%7C+Secure+by+Design" alt="Typing SVG" />
-</p>
+<img src="./assets/hero-banner.svg" alt="Akash Yadav — futuristic software engineering profile banner" width="100%" />
 
----
+[![GitHub](https://img.shields.io/badge/GITHUB-YdvAkash-0A0F1F?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/YdvAkash)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A0F1F?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/akashyadav0522/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-EXPLORE-0A0F1F?style=for-the-badge&logo=firefoxbrowser&logoColor=00E5FF)](https://aradhana.ogakash.xyz/)
 
-### 👨‍💻 About Me
+**BACKEND ENGINEERING · FULL-STACK SYSTEMS · AI-POWERED PRODUCTS**
 
-- 💼 Backend-focused MERN Stack Developer with a strong emphasis on API architecture and system performance.
-- 🚀 Building scalable, maintainable, and secure backend systems tailored for real-world production environments.
-- ☁️ Proficient with AWS (S3, EC2, Rekognition), MongoDB, Redis, and Docker.
-- 🧠 Passionate about clean architecture, authentication strategies (JWT, OAuth2), and API versioning.
-- 🔧 Currently exploring Microservices, CI/CD pipelines, and distributed systems.
+</div>
 
----
+<img src="./assets/section-divider.svg" alt="" width="100%" />
 
-### 🛠️ Tech Stack
+## `01 / IDENTITY PROTOCOL`
 
-#### 🔙 Backend & API Engineering
-- Languages & Frameworks: Node.js, Express.js
-- Database & Data Layer: MongoDB, Mongoose, Aggregations
-- Auth & Security: JWT, OAuth2, Bcrypt, Rate Limiting, Helmet
-- Real-Time & File Handling: WebSockets, Multer
-- Performance: Redis Caching, API Optimization
-- Documentation & Testing: Swagger, Postman, Thunder Client
+```text
+┌─ AKASH.YADAV / DEVELOPER PROFILE ──────────────────────────┐
+│  STATUS     : BUILDING                                     │
+│  FOCUS      : Backend systems · APIs · product engineering │
+│  TOOLKIT    : Java · Spring Boot · Node.js · React          │
+│  PRINCIPLE  : Useful software, clear architecture           │
+└─────────────────────────────────────────────────────────────┘
+```
 
-#### ☁️ Cloud & DevOps
-- Cloud Services: AWS S3, AWS Rekognition, EC2 (Basics)
-- Containerization & Automation: Docker, GitHub Actions
-- CI/CD: In Progress
+I'm Akash Yadav, a developer interested in building useful digital products across backend engineering, full-stack development, cloud deployment, and AI-assisted workflows. I enjoy connecting clean APIs, thoughtful interfaces, reliable data layers, and practical deployment pipelines into complete applications.
 
-#### 🖥️ Frontend (for Integration & Testing)
-- React.js, Redux Toolkit, Next.js, Tailwind CSS
+- **Backend:** Java, Spring Boot, Node.js, Express
+- **Frontend:** React, React Native, TypeScript, Tailwind CSS
+- **Data:** MongoDB, PostgreSQL, MySQL, Redis / Valkey
+- **Build & delivery:** Docker, GitHub Actions, AWS, Linux, Nginx
+- **Exploring:** distributed systems, system design, and AI product integrations
 
----
+<img src="./assets/section-divider.svg" alt="" width="100%" />
 
-### 📈 GitHub Stats
+## `02 / TECHNOLOGY CONSTELLATION`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YdvAkash&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
+<div align="center">
 
+| **01 — LANGUAGES** | **02 — BACKEND & API** | **03 — FRONTEND** |
+|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-0A0F1F?style=flat-square&logo=openjdk&logoColor=F89820) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0F1F?style=flat-square&logo=springboot&logoColor=6DB33F) | ![React](https://img.shields.io/badge/React-0A0F1F?style=flat-square&logo=react&logoColor=61DAFB) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-0A0F1F?style=flat-square&logo=javascript&logoColor=F7DF1E) | ![Node.js](https://img.shields.io/badge/Node.js-0A0F1F?style=flat-square&logo=nodedotjs&logoColor=5FA04E) | ![TypeScript](https://img.shields.io/badge/TypeScript-0A0F1F?style=flat-square&logo=typescript&logoColor=3178C6) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-0A0F1F?style=flat-square&logo=typescript&logoColor=3178C6) | ![Express](https://img.shields.io/badge/Express-0A0F1F?style=flat-square&logo=express&logoColor=FFFFFF) | ![React Native](https://img.shields.io/badge/React_Native-0A0F1F?style=flat-square&logo=react&logoColor=61DAFB) |
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YdvAkash&show_icons=true&theme=tokyonight" alt="Streak Stats" width="47%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YdvAkash&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
-</p>
+| **04 — DATA SYSTEMS** | **05 — CLOUD & DELIVERY** | **06 — TOOLS** |
+|:---:|:---:|:---:|
+| ![MongoDB](https://img.shields.io/badge/MongoDB-0A0F1F?style=flat-square&logo=mongodb&logoColor=47A248) | ![AWS](https://img.shields.io/badge/AWS-0A0F1F?style=flat-square&logo=amazonaws&logoColor=FF9900) | ![Git](https://img.shields.io/badge/Git-0A0F1F?style=flat-square&logo=git&logoColor=F05032) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0F1F?style=flat-square&logo=postgresql&logoColor=4169E1) | ![Docker](https://img.shields.io/badge/Docker-0A0F1F?style=flat-square&logo=docker&logoColor=2496ED) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0F1F?style=flat-square&logo=githubactions&logoColor=2088FF) |
+| ![Redis](https://img.shields.io/badge/Redis-0A0F1F?style=flat-square&logo=redis&logoColor=DC382D) | ![Linux](https://img.shields.io/badge/Linux-0A0F1F?style=flat-square&logo=linux&logoColor=FCC624) | ![Postman](https://img.shields.io/badge/Postman-0A0F1F?style=flat-square&logo=postman&logoColor=FF6C37) |
 
----
+</div>
 
-### 💡 Highlight Projects
+<img src="./assets/section-divider.svg" alt="" width="100%" />
 
-- 🔐 **SecureAuthAPI** – Advanced authentication service with RBAC, JWT, and refresh token lifecycle
-- 📍 **Smart Attendance System** – Geofenced clock-in/out with face recognition, S3 integration, and MongoDB transactions
-- 🧩 **TaskTracker API** – Modular task management backend with user roles, file uploads, and clean architecture
+## `03 / PROJECT DOSSIERS`
 
----
+### <img src="./assets/project-mediva.svg" alt="Mediva medical timeline interface illustration" width="100%" />
 
-### 🌐 Connect With Me
+**MEDIVA / MED-DOC** · [Source repository ↗](https://github.com/YdvAkash/med-doc-app)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/akashyadav0522/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:officeakashyadav@example.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" alt="Email"/>
-  </a>
-</p>
+A medical-document organization and health-history application. Its repository describes document uploads and organization, a health timeline, and an AI assistant for asking questions about medical reports.
 
----
+- **Implemented in repository README:** medical document management, timeline, AI report chat, authenticated profiles.
+- **Stack documented:** React Native, Expo, TypeScript, Zustand, React Navigation, Axios.
+- **Build path:** [Repository and releases](https://github.com/YdvAkash/med-doc-app).
 
-> “The backend is where logic meets performance and reliability—this is where great products are built.”
+### <img src="./assets/project-turtle.svg" alt="Turtle watchlist application illustration" width="100%" />
 
----
+**TURTLE — BOOK & WATCHLIST** · [Source repository ↗](https://github.com/YdvAkash/Turtle)
+
+A full-stack MERN application for searching books, movies, and anime, rating items, building a watchlist, and viewing other users' watchlists.
+
+- **Stack documented:** MongoDB, Express, React, Node.js, Docker.
+- **Developer setup:** the repository README documents local frontend/backend runs and Docker commands.
+- **Note:** authentication and recommendation features are listed as future enhancements in its README, so they are not presented here as completed features.
+
+### **FINDETECT AI — FRONTEND REPOSITORY** · [Source repository ↗](https://github.com/YdvAkash/FinDetect-Ai-Frontend)
+
+The accessible repository README currently contains only the project name. I’m linking the repository without making claims about its features, architecture, or implementation until those can be verified.
+
+### **MORE REPOSITORIES** · [Explore all public work ↗](https://github.com/YdvAkash?tab=repositories)
+
+<img src="./assets/section-divider.svg" alt="" width="100%" />
+
+## `04 / GITHUB TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YdvAkash&show_icons=true&hide_border=true&bg_color=0A0F1F&title_color=00E5FF&icon_color=8B5CF6&text_color=D7E7FF&ring_color=00E5FF" alt="GitHub profile statistics for YdvAkash" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YdvAkash&layout=compact&hide_border=true&bg_color=0A0F1F&title_color=00E5FF&text_color=D7E7FF" alt="Most-used public repository languages for YdvAkash" width="41%" />
+
+</div>
+
+<sub>Telemetry cards are served by a third-party service and may be unavailable or delayed. They reflect the provider's accessible GitHub data; they are not a claim of private contribution access.</sub>
+
+<img src="./assets/section-divider.svg" alt="" width="100%" />
+
+## `05 / CONNECT TO THE OPERATOR`
+
+<div align="center">
+
+**Have a project, engineering challenge, or collaboration in mind?**
+
+[![GitHub](https://img.shields.io/badge/OPEN_GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=0A0F1F)](https://github.com/YdvAkash)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/akashyadav0522/)
+[![Portfolio](https://img.shields.io/badge/VISIT_PORTFOLIO-172554?style=for-the-badge&logo=firefoxbrowser&logoColor=00E5FF)](https://aradhana.ogakash.xyz/)
+
+<img src="./assets/footer-banner.svg" alt="Akash Yadav — end of transmission" width="100%" />
+
+<sub>DESIGNED IN CURIOSITY · BUILT WITH CODE · ALWAYS ITERATING</sub>
+
+</div>
