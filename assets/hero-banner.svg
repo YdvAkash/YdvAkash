@@ -1,1 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc"><title id="title">Akash Yadav — digital identity</title><desc id="desc">Animated futuristic dark navy banner with cyan circuit traces and orbital HUD geometry.</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#0A1730"/><stop offset="1" stop-color="#170B35"/></linearGradient><linearGradient id="beam"><stop stop-color="#00E5FF" stop-opacity="0"/><stop offset=".5" stop-color="#00E5FF"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#1B4569" stroke-opacity=".45" stroke-width="1"/></pattern><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><rect width="1200" height="420" rx="20" fill="url(#bg)"/><rect width="1200" height="420" rx="20" fill="url(#grid)"/><g fill="none" stroke="#00E5FF" stroke-opacity=".65"><path d="M0 90H210L245 125H360M0 310H180L220 270H310M1200 95H1030L990 135H900M1200 330H1050L1015 295H930" stroke-width="2"/><path d="M65 0V55L95 85M1110 0V50L1080 80M70 420V365L100 335M1130 420V360L1100 330" stroke-width="1.5"/></g><g fill="#00E5FF"><circle cx="210" cy="90" r="4"/><circle cx="180" cy="310" r="4"/><circle cx="1030" cy="95" r="4"/><circle cx="1050" cy="330" r="4"/></g><g transform="translate(965 210)" fill="none" stroke="#00E5FF" filter="url(#glow)"><circle r="112" stroke-opacity=".35" stroke-dasharray="4 9"/><circle r="88" stroke-opacity=".75" stroke-dasharray="68 15 20 14"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/></circle><circle r="60" stroke="#8B5CF6" stroke-opacity=".7" stroke-dasharray="2 8"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="30s" repeatCount="indefinite"/></circle><path d="M-130 0H130M0-130V130" stroke-opacity=".35"/><circle r="22" fill="#00E5FF" fill-opacity=".08"/><circle r="7" fill="#00E5FF" stroke="none"/></g><g fill="#7DEBFF" font-family="monospace" font-size="12" letter-spacing="3"><text x="64" y="58">YDVAKASH // DIGITAL IDENTITY</text><text x="64" y="365">SYSTEMS / SOFTWARE / EXPERIMENTATION</text><text x="1030" y="370">NODE_01</text></g><text x="58" y="190" fill="#F3FAFF" font-family="Arial,Helvetica,sans-serif" font-size="60" font-weight="800" letter-spacing="2">AKASH YADAV</text><text x="62" y="235" fill="#00E5FF" font-family="monospace" font-size="19" letter-spacing="4">SOFTWARE ENGINEERING</text><text x="62" y="272" fill="#A7B8D5" font-family="Arial,Helvetica,sans-serif" font-size="17">Backend systems · Full-stack products · AI integrations</text><rect x="58" y="300" width="390" height="2" fill="url(#beam)"><animate attributeName="x" values="58;160;58" dur="5s" repeatCount="indefinite"/></rect><path d="M0 396H1200" stroke="#00E5FF" stroke-opacity=".4"/><rect x="0" y="0" width="1200" height="420" rx="20" fill="none" stroke="#1E5274" stroke-width="2"/><path d="M0 20V0H20M1180 0H1200V20M0 400V420H20M1180 420H1200V400" fill="none" stroke="#00E5FF" stroke-width="3"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Akash Yadav — Engineering the Next Layer</title>
+  <desc id="desc">A cinematic sci-fi command interface with a luminous orbital engine, technical readouts, circuit paths, and the name Akash Yadav.</desc>
+  <defs>
+    <linearGradient id="space" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030713"/><stop offset=".52" stop-color="#09182D"/><stop offset="1" stop-color="#170B32"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00E5FF" stop-opacity="0"/><stop offset=".2" stop-color="#00E5FF"/><stop offset=".76" stop-color="#8B5CF6"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient>
+    <radialGradient id="core"><stop stop-color="#00E5FF" stop-opacity=".3"/><stop offset=".5" stop-color="#2563EB" stop-opacity=".12"/><stop offset="1" stop-color="#030713" stop-opacity="0"/></radialGradient>
+    <pattern id="microgrid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1D4262" stroke-opacity=".38" stroke-width=".8"/></pattern>
+    <filter id="halo" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="440" rx="18" fill="url(#space)"/>
+  <rect width="1200" height="440" rx="18" fill="url(#microgrid)"/>
+  <circle cx="920" cy="215" r="230" fill="url(#core)"/>
+  <g fill="none" stroke="#00E5FF" stroke-opacity=".54" stroke-width="1.5">
+    <path d="M0 104H188L218 134H315M0 320H145L178 287H280M1200 108H1098L1072 134H1030M1200 329H1112L1079 296H1010"/>
+    <path d="M74 0V47L98 71H125M1120 0V38L1094 64M82 440V390L110 362M1129 440V391L1103 365"/>
+    <path d="M470 35H585L606 56H672M472 405H581L602 384H700" stroke-opacity=".23"/>
+  </g>
+  <g fill="#00E5FF" filter="url(#halo)"><circle cx="188" cy="104" r="3"/><circle cx="145" cy="320" r="3"/><circle cx="1098" cy="108" r="3"/><circle cx="1112" cy="329" r="3"/></g>
+  <g transform="translate(916 219)">
+    <circle r="158" fill="none" stroke="#23476D" stroke-width="1"/>
+    <circle r="139" fill="none" stroke="#00E5FF" stroke-opacity=".35" stroke-width="1" stroke-dasharray="2 8"/>
+    <circle r="112" fill="none" stroke="#00E5FF" stroke-opacity=".8" stroke-width="1.7" stroke-dasharray="54 13 12 18"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="64s" repeatCount="indefinite"/></circle>
+    <circle r="88" fill="none" stroke="#8B5CF6" stroke-opacity=".76" stroke-width="2" stroke-dasharray="3 10"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="42s" repeatCount="indefinite"/></circle>
+    <circle r="62" fill="none" stroke="#5DEBFF" stroke-opacity=".48" stroke-width="1.2" stroke-dasharray="18 6 2 6"/>
+    <circle r="44" fill="#00E5FF" fill-opacity=".035" stroke="#285F85" stroke-width="1"/>
+    <path d="M-174 0H174M0-174V174M-123-123L123 123M-123 123L123-123" stroke="#00E5FF" stroke-opacity=".18" stroke-width="1"/>
+    <g stroke="#00E5FF" stroke-width="2" fill="none" filter="url(#halo)"><path d="M-20-23L0-35L20-23L20 10L0 25L-20 10Z"/><path d="M0-35V25M-20-7H20"/></g>
+    <circle r="8" fill="#D9FBFF" filter="url(#halo)"/>
+    <g fill="#8DEFFF"><circle cx="0" cy="-112" r="4"/><circle cx="97" cy="56" r="3"/><circle cx="-88" cy="69" r="3"/></g>
+  </g>
+  <g fill="#80EFFF" font-family="monospace" font-size="11" letter-spacing="2.5">
+    <text x="58" y="49">YDVAKASH / ENGINEERING IDENTITY</text>
+    <text x="58" y="383">BACKEND SYSTEMS  /  PRODUCT ENGINEERING  /  AI INTEGRATION</text>
+    <text x="1041" y="390">ORBITAL NODE 01</text>
+    <text x="728" y="55">SYS.STATUS</text><text x="828" y="55" fill="#C1FBE4">ONLINE</text>
+  </g>
+  <g fill="none" stroke="#2A6787" stroke-width="1"><path d="M728 69H850"/><path d="M728 76H806" stroke="#00E5FF" stroke-opacity=".8"/></g>
+  <text x="56" y="173" fill="#F4FAFF" font-family="Arial,Helvetica,sans-serif" font-size="67" font-weight="800" letter-spacing="1">AKASH YADAV</text>
+  <text x="62" y="218" fill="#00E5FF" font-family="monospace" font-size="18" font-weight="700" letter-spacing="4">SOFTWARE ENGINEER IN PROGRESS</text>
+  <text x="62" y="254" fill="#B8C7DE" font-family="Arial,Helvetica,sans-serif" font-size="17">Building useful systems from clean APIs to thoughtful interfaces.</text>
+  <g fill="#9AB0CA" font-family="monospace" font-size="10" letter-spacing="1.8"><text x="62" y="294">PRIMARY STACK</text><text x="62" y="315" fill="#E4F8FF" font-size="12">JAVA  /  SPRING BOOT  /  TYPESCRIPT  /  REACT</text></g>
+  <rect x="60" y="333" width="400" height="2" rx="1" fill="#173C59"/><rect x="60" y="333" width="125" height="2" rx="1" fill="url(#edge)"><animate attributeName="x" values="60;320;60" dur="8s" repeatCount="indefinite"/></rect>
+  <path d="M0 416H1200" stroke="url(#edge)" stroke-width="1.5"/>
+  <rect x=".75" y=".75" width="1198.5" height="438.5" rx="17" fill="none" stroke="#214A6B" stroke-width="1.5"/>
+  <path d="M0 22V0H22M1178 0H1200V22M0 418V440H22M1178 440H1200V418" fill="none" stroke="#00E5FF" stroke-width="3"/>
+</svg>
